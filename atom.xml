@@ -3,11 +3,11 @@
   <title></title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://eureka3141.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://eureka3141.github.io/"/>
   <updated>2023-05-29T10:44:17.408Z</updated>
-  <id>http://example.com/</id>
+  <id>https://eureka3141.github.io/</id>
   
   <author>
     <name>EUREKA</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>post</title>
-    <link href="http://example.com/2023/05/29/post/"/>
-    <id>http://example.com/2023/05/29/post/</id>
+    <link href="https://eureka3141.github.io/2023/05/29/post/"/>
+    <id>https://eureka3141.github.io/2023/05/29/post/</id>
     <published>2023-05-29T10:43:14.000Z</published>
     <updated>2023-05-29T10:44:17.408Z</updated>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="杂感" scheme="http://example.com/tags/%E6%9D%82%E6%84%9F/"/>
+    <category term="杂感" scheme="https://eureka3141.github.io/tags/%E6%9D%82%E6%84%9F/"/>
     
   </entry>
   
