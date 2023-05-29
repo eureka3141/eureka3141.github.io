@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title></title>
   
-  
+  <subtitle>拾穗</subtitle>
   <link href="https://eureka3141.github.io/atom.xml" rel="self"/>
   
   <link href="https://eureka3141.github.io/"/>
-  <updated>2023-05-29T10:44:17.408Z</updated>
+  <updated>2023-05-29T14:52:13.356Z</updated>
   <id>https://eureka3141.github.io/</id>
   
   <author>
@@ -17,22 +17,51 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>天文（爱好者）相关网站</title>
+    <link href="https://eureka3141.github.io/2023/05/%E5%A4%A9%E6%96%87%EF%BC%88%E7%88%B1%E5%A5%BD%E8%80%85%EF%BC%89%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
+    <id>https://eureka3141.github.io/2023/05/%E5%A4%A9%E6%96%87%EF%BC%88%E7%88%B1%E5%A5%BD%E8%80%85%EF%BC%89%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/</id>
+    <published>2023-05-29T14:44:00.000Z</published>
+    <updated>2023-05-29T14:52:13.356Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;之前在天协学术部的时候写的。参考了之前学长写的《常用天文网站》。在这里做个记录。&lt;/p&gt;
+&lt;h3 id=&quot;观星条件查询&quot;&gt;&lt;a href=&quot;#观星条件查询&quot; class=&quot;headerlink&quot; title=&quot;观星条件查询&quot;&gt;&lt;/a&gt;观星条件查询&lt;/h3&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://eureka3141.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="天文" scheme="https://eureka3141.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>post</title>
-    <link href="https://eureka3141.github.io/2023/05/29/post/"/>
-    <id>https://eureka3141.github.io/2023/05/29/post/</id>
+    <link href="https://eureka3141.github.io/2023/05/post/"/>
+    <id>https://eureka3141.github.io/2023/05/post/</id>
     <published>2023-05-29T10:43:14.000Z</published>
-    <updated>2023-05-29T10:44:17.408Z</updated>
+    <updated>2023-05-29T14:53:05.111Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;记录第一次&quot;&gt;&lt;a href=&quot;#记录第一次&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;好像很早之前就有博客已经过时的说法。但好像也还没有能取代博客的东西。&lt;/p&gt;
+</summary>
         
       
     
     
+    
+    <category term="记录" scheme="https://eureka3141.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
     
     
     <category term="杂感" scheme="https://eureka3141.github.io/tags/%E6%9D%82%E6%84%9F/"/>
