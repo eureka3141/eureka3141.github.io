@@ -6,7 +6,7 @@
   <link href="https://eureka3141.github.io/atom.xml" rel="self"/>
   
   <link href="https://eureka3141.github.io/"/>
-  <updated>2023-05-29T14:52:13.356Z</updated>
+  <updated>2023-05-30T16:59:02.219Z</updated>
   <id>https://eureka3141.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记LaTeX模板</title>
+    <link href="https://eureka3141.github.io/2023/05/%E6%97%A5%E8%AE%B0LaTeX%E6%A8%A1%E6%9D%BF/"/>
+    <id>https://eureka3141.github.io/2023/05/%E6%97%A5%E8%AE%B0LaTeX%E6%A8%A1%E6%9D%BF/</id>
+    <published>2023-05-30T16:02:52.000Z</published>
+    <updated>2023-05-30T16:59:02.219Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/eureka3141/diary_LaTeX&quot;&gt;diary_LaTeX&lt;/a&gt;
+之前做的一个日记的&lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://eureka3141.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="LaTeX" scheme="https://eureka3141.github.io/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
     <title>天文（爱好者）相关网站</title>
     <link href="https://eureka3141.github.io/2023/05/%E5%A4%A9%E6%96%87%EF%BC%88%E7%88%B1%E5%A5%BD%E8%80%85%EF%BC%89%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
     <id>https://eureka3141.github.io/2023/05/%E5%A4%A9%E6%96%87%EF%BC%88%E7%88%B1%E5%A5%BD%E8%80%85%EF%BC%89%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/</id>
     <published>2023-05-29T14:44:00.000Z</published>
-    <updated>2023-05-29T14:52:13.356Z</updated>
+    <updated>2023-05-30T16:37:09.295Z</updated>
     
     
       
@@ -29,7 +55,8 @@
         
         
     <summary type="html">&lt;p&gt;之前在天协学术部的时候写的。参考了之前学长写的《常用天文网站》。在这里做个记录。&lt;/p&gt;
-&lt;h3 id=&quot;观星条件查询&quot;&gt;&lt;a href=&quot;#观星条件查询&quot; class=&quot;headerlink&quot; title=&quot;观星条件查询&quot;&gt;&lt;/a&gt;观星条件查询&lt;/h3&gt;&lt;p&gt;&lt;a</summary>
+&lt;h3 id=&quot;观星条件查询&quot;&gt;观星条件查询&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://7timer.info/&quot;&gt;7Timer! - numerical weather</summary>
         
       
     
@@ -40,6 +67,8 @@
     
     <category term="天文" scheme="https://eureka3141.github.io/tags/%E5%A4%A9%E6%96%87/"/>
     
+    <category term="网站" scheme="https://eureka3141.github.io/tags/%E7%BD%91%E7%AB%99/"/>
+    
   </entry>
   
   <entry>
@@ -47,7 +76,7 @@
     <link href="https://eureka3141.github.io/2023/05/post/"/>
     <id>https://eureka3141.github.io/2023/05/post/</id>
     <published>2023-05-29T10:43:14.000Z</published>
-    <updated>2023-05-29T14:53:05.111Z</updated>
+    <updated>2023-05-30T16:16:15.558Z</updated>
     
     
       
@@ -55,6 +84,7 @@
         
         
     <summary type="html">&lt;p&gt;好像很早之前就有博客已经过时的说法。但好像也还没有能取代博客的东西。&lt;/p&gt;
+&lt;p&gt;我也不知道会写些什么。&lt;/p&gt;
 </summary>
         
       
