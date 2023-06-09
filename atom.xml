@@ -6,7 +6,7 @@
   <link href="https://eureka3141.github.io/atom.xml" rel="self"/>
   
   <link href="https://eureka3141.github.io/"/>
-  <updated>2023-06-06T16:20:40.438Z</updated>
+  <updated>2023-06-09T13:51:03.803Z</updated>
   <id>https://eureka3141.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://eureka3141.github.io/2023/06/%E5%85%AD%E6%9C%88%E9%9A%8F%E7%AC%94/"/>
     <id>https://eureka3141.github.io/2023/06/%E5%85%AD%E6%9C%88%E9%9A%8F%E7%AC%94/</id>
     <published>2023-06-06T15:53:43.000Z</published>
-    <updated>2023-06-06T16:20:40.438Z</updated>
+    <updated>2023-06-09T13:51:03.803Z</updated>
     
     
       
@@ -35,8 +35,10 @@
     
     
     
+    <category term="记录" scheme="https://eureka3141.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
     
-    <category term="随笔" scheme="https://eureka3141.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂感" scheme="https://eureka3141.github.io/tags/%E6%9D%82%E6%84%9F/"/>
     
   </entry>
   
@@ -130,7 +132,7 @@
     <link href="https://eureka3141.github.io/2023/05/post/"/>
     <id>https://eureka3141.github.io/2023/05/post/</id>
     <published>2023-05-29T10:43:14.000Z</published>
-    <updated>2023-05-30T16:16:15.558Z</updated>
+    <updated>2023-06-09T13:48:04.539Z</updated>
     
     
       
@@ -148,7 +150,7 @@
     <category term="记录" scheme="https://eureka3141.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="杂感" scheme="https://eureka3141.github.io/tags/%E6%9D%82%E6%84%9F/"/>
+    <category term="随笔" scheme="https://eureka3141.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
