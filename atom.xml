@@ -6,7 +6,7 @@
   <link href="https://eureka3141.github.io/atom.xml" rel="self"/>
   
   <link href="https://eureka3141.github.io/"/>
-  <updated>2023-06-09T13:51:03.803Z</updated>
+  <updated>2023-06-20T04:55:35.513Z</updated>
   <id>https://eureka3141.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>清晨的散步</title>
+    <link href="https://eureka3141.github.io/2023/06/city/"/>
+    <id>https://eureka3141.github.io/2023/06/city/</id>
+    <published>2023-06-20T04:55:16.000Z</published>
+    <updated>2023-06-20T04:55:35.513Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;熬了个通宵。去凌波门看日出。&lt;/p&gt;
+&lt;p&gt;凌波门似乎已不再适合看日出。栈道上的围栏，广播里的“注意脚下”，路边的小吃摊与随之而有的遍地垃圾，都令人厌恶。索性继续往前走，从文澜门走到广八路。东湖新村还在等待着拆除。小巷里一边住着人，另一边则已是拆了一半的房子，往深处看还能</summary>
+        
+      
+    
+    
+    
+    <category term="记录" scheme="https://eureka3141.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="随笔" scheme="https://eureka3141.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>六月随笔</title>
-    <link href="https://eureka3141.github.io/2023/06/%E5%85%AD%E6%9C%88%E9%9A%8F%E7%AC%94/"/>
-    <id>https://eureka3141.github.io/2023/06/%E5%85%AD%E6%9C%88%E9%9A%8F%E7%AC%94/</id>
+    <link href="https://eureka3141.github.io/2023/06/june_23/"/>
+    <id>https://eureka3141.github.io/2023/06/june_23/</id>
     <published>2023-06-06T15:53:43.000Z</published>
-    <updated>2023-06-09T13:51:03.803Z</updated>
+    <updated>2023-06-14T07:51:35.310Z</updated>
     
     
       
@@ -74,8 +100,8 @@
   
   <entry>
     <title>日记LaTeX模板</title>
-    <link href="https://eureka3141.github.io/2023/05/%E6%97%A5%E8%AE%B0LaTeX%E6%A8%A1%E6%9D%BF/"/>
-    <id>https://eureka3141.github.io/2023/05/%E6%97%A5%E8%AE%B0LaTeX%E6%A8%A1%E6%9D%BF/</id>
+    <link href="https://eureka3141.github.io/2023/05/diarylatex/"/>
+    <id>https://eureka3141.github.io/2023/05/diarylatex/</id>
     <published>2023-05-30T16:02:52.000Z</published>
     <updated>2023-05-30T16:59:02.219Z</updated>
     
@@ -100,8 +126,8 @@
   
   <entry>
     <title>天文（爱好者）相关网站</title>
-    <link href="https://eureka3141.github.io/2023/05/%E5%A4%A9%E6%96%87%EF%BC%88%E7%88%B1%E5%A5%BD%E8%80%85%EF%BC%89%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
-    <id>https://eureka3141.github.io/2023/05/%E5%A4%A9%E6%96%87%EF%BC%88%E7%88%B1%E5%A5%BD%E8%80%85%EF%BC%89%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/</id>
+    <link href="https://eureka3141.github.io/2023/05/astronomywebsite/"/>
+    <id>https://eureka3141.github.io/2023/05/astronomywebsite/</id>
     <published>2023-05-29T14:44:00.000Z</published>
     <updated>2023-05-30T16:37:09.295Z</updated>
     
